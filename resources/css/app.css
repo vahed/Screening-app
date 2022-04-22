@@ -1,0 +1,25 @@
+.deep--orange{
+    background-color: #fd7e14!important;
+    text-transform: capitalize!important;
+    color: white!important;
+}
+.v-card__title{
+    color: #0b5ed7;
+}
+.v-input__icon {
+    min-width: 0px !important;
+    width: 0px !important;
+}
+.v-card__text{
+    padding-left: 0px;
+}
+.primary{
+    color: #0b5ed7;
+}
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+
